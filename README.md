@@ -1,6 +1,6 @@
 # Seja bem-vindo ao meu perfil do GitHub!!!
 <div>
-  <img align="center" height="590em" src="https://github.com/WanCarvalho/WanCarvalho/blob/main/Banner-wanderson.svg"/>
+  <img align="center" src="https://github.com/WanCarvalho/WanCarvalho/blob/main/Banner-wanderson.svg"/>
   <a href="https://github.com/WanCarvalho" />
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api?username=WanCarvalho&show_icons=true&theme=dark&count_private=true&hide=stars,prs" />
   <img align="center" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WanCarvalho&theme=dark" />
