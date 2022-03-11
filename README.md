@@ -8,7 +8,7 @@
 
 ## Estatísticas do GitHub
 
-<img align="center" height="18em" src="https://github-readme-stats.vercel.app/api?username=WanCarvalho&show_icons=true&theme=dark&count_private=true&hide=stars,prs" />
+<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=WanCarvalho&show_icons=true&theme=dark&count_private=true&hide=stars,prs" />
 <img align="center" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WanCarvalho&theme=dark" />
 
 ## Tecnologias Mais Utilizadas
