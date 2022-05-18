@@ -6,11 +6,6 @@
   <a href="https://github.com/WanCarvalho" />
 </div>
 
-## Estatísticas do GitHub
-
-<img align="center" height="175em" src="https://github-readme-stats.vercel.app/api?username=WanCarvalho&show_icons=true&theme=dark&count_private=true&hide=stars,prs" />
-<img align="center" height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WanCarvalho&theme=dark" />
-
 ## Tecnologias Mais Utilizadas
 
 <div style="display: inline_block"><br>
