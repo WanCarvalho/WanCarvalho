@@ -49,4 +49,3 @@
 
 [![Linkedin](https://img.shields.io/badge/-wancarvalho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wancarvalho)](https://www.linkedin.com/in/wancarvalho)
 [![Gmail Badge](https://img.shields.io/badge/-wandersoncarvalho.1501@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wandersoncarvalho.1501@email.com)](mailto:wandersoncarvalho.1501@email.com)
-[![GitHub Wanderson Carvalho](https://img.shields.io/github/followers/WandersonCarvalho?label=follow&style=social)](https://www.github.com/wancarvalho)
