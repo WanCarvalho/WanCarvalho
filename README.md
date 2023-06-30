@@ -10,7 +10,7 @@
 
 <h3>&nbsp;Sobre Mim</h3>
 
-- 🎓 &nbsp; Estudando **Tecnologia da Informação** no <a href="https://www.metropoledigital.ufrn.br/portal/">Universidade Federal do Rio grande do Norte</a>.
+- 🎓 &nbsp; Estudando **Tecnologia da Informação** em <a href="https://www.metropoledigital.ufrn.br/portal/">Universidade Federal do Rio grande do Norte</a> e **Banco de Dados** em <a href="https://www.xpeducacao.com.br/">XP Educação</a>.
 - 💼 &nbsp; Trabalhando como **Técnico de Suporte** na <a href="tvin.com.br">TV Inteligente Sistemas Eletrônicos LTDA</a>
 - 🌱 &nbsp; Aprendendo mais sobre **Desenvolvimento WEB e Banco de Dados**.
 
@@ -18,6 +18,8 @@
 
 **Tecnologias**
 
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-333333?style=flat&logo=BOOTSTRAP&logoColor=563d7c)
@@ -48,4 +50,4 @@
 <h3>&nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin](https://img.shields.io/badge/-wancarvalho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wancarvalho)](https://www.linkedin.com/in/wancarvalho)
-[![Gmail Badge](https://img.shields.io/badge/-wandersoncarvalho.1501@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wandersoncarvalho.1501@email.com)](mailto:wandersoncarvalho.1501@email.com)
+[![Gmail Badge](https://img.shields.io/badge/-wandersoncarvalho.1501@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wandersoncarvalho.1501@gmail.com)](mailto:wandersoncarvalho.1501@gmail.com)
