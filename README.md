@@ -18,10 +18,11 @@
 
 **Tecnologias**
 
-  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css)
-  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+  ![HTML](https://img.shields.io/badge/-HTML-333333?style=flat&logo=html5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+  ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+  ![PYTHON](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-333333?style=flat&logo=BOOTSTRAP&logoColor=563d7c)
 
 **Dados**
