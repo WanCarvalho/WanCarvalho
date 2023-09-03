@@ -11,7 +11,7 @@
 <h3>&nbsp;Sobre Mim</h3>
 
 - 🎓 &nbsp; Estudando **Tecnologia da Informação** em <a href="https://www.metropoledigital.ufrn.br/portal/">Universidade Federal do Rio grande do Norte</a> e **Banco de Dados** em <a href="https://www.xpeducacao.com.br/">XP Educação</a>.
-- 💼 &nbsp; Trabalhando como **Técnico de Suporte** na <a href="tvin.com.br">TV Inteligente Sistemas Eletrônicos LTDA</a>
+- 💼 &nbsp; Buscando oportunidades na área de **Desenvolvimento WEB**.
 - 🌱 &nbsp; Aprendendo mais sobre **Desenvolvimento WEB e Banco de Dados**.
 
 <h3>&nbsp;Minhas Skills</h3>
