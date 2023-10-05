@@ -22,6 +22,7 @@
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=css3)
   ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
   ![PHP](https://img.shields.io/badge/-PHP-333333?style=flat&logo=php)
+  ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
   ![PYTHON](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-333333?style=flat&logo=BOOTSTRAP&logoColor=563d7c)
 
