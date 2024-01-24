@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=101AEB&height=120&section=header"/>
 
-# Seja bem-vindo ao meu perfil do GitHub!!!
+<h1 align="center">Seja bem-vindo(a) ao meu perfil do GitHub!!!</h1>
 
 <!--<div>
   <img align="center" src="https://github.com/WanCarvalho/WanCarvalho/blob/main/Banner-wanderson.svg"/>
