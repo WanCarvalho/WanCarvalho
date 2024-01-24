@@ -1,10 +1,12 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=101AEB&height=120&section=header"/>
+
 # Seja bem-vindo ao meu perfil do GitHub!!!
 
-<div>
+<!--<div>
   <img align="center" src="https://github.com/WanCarvalho/WanCarvalho/blob/main/Banner-wanderson.svg"/>
   <br>
   <a href="https://github.com/WanCarvalho"/>
-</div>
+</div>-->
 
 <br>
 
@@ -53,3 +55,5 @@
 
 [![Linkedin](https://img.shields.io/badge/-wancarvalho-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/wancarvalho)](https://www.linkedin.com/in/wancarvalho)
 [![Gmail Badge](https://img.shields.io/badge/-wandersoncarvalho.1501@gmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:wandersoncarvalho.1501@gmail.com)](mailto:wandersoncarvalho.1501@gmail.com)
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=101AEB&height=120&section=footer"/>
