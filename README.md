@@ -43,7 +43,7 @@
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Apache](https://img.shields.io/badge/-ApacheServer-333333?style=flat&logo=apache)
-  <!-- ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker) -->
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
 **Ferramentas de Desenvolvimento**
 
