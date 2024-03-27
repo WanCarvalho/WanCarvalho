@@ -27,6 +27,7 @@
   ![Laravel](https://img.shields.io/badge/-Laravel-333333?style=flat&logo=laravel)
   ![PYTHON](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
   ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-333333?style=flat&logo=BOOTSTRAP&logoColor=563d7c)
+  ![JQuery](https://img.shields.io/badge/-JQuery-333333?style=flat&logo=JQuery&logoColor=563d7c)
 
 **Dados**
 
