@@ -16,7 +16,9 @@
 - 💼 &nbsp; Buscando oportunidades na área de **Desenvolvimento WEB**.
 - 🌱 &nbsp; Aprendendo mais sobre **Desenvolvimento WEB e Banco de Dados**.
 
-<h3>&nbsp;Minhas Skills</h3>
+<hr>
+
+<h3>&nbsp;Minhas Habilidades</h3>
 
 **Tecnologias**
 
@@ -29,7 +31,7 @@
   ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-333333?style=flat&logo=BOOTSTRAP&logoColor=563d7c)
   ![JQuery](https://img.shields.io/badge/-JQuery-333333?style=flat&logo=JQuery&logoColor=563d7c)
 
-**Dados**
+**Banco de Dados**
 
   ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
   ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
@@ -39,18 +41,18 @@
   ![Insomnia](https://img.shields.io/badge/-Insomnia-333333?style=flat&logo=insomnia)
   ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman) -->
 
-**DevOps**
+**Ferramentas de Desenvolvimento**
+
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
 
   ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
   ![Apache](https://img.shields.io/badge/-ApacheServer-333333?style=flat&logo=apache)
   ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 
-**Ferramentas de Desenvolvimento**
-
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-  ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma&logoColor=007ACC)
+  <hr>
 
 <h3>&nbsp;Onde me encontrar: </h3> 
 
